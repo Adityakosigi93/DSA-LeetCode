@@ -25,8 +25,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0202-happy-number) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
