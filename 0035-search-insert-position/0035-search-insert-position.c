@@ -26,7 +26,7 @@ int searchInsert(int* nums, int numsSize, int target) {
         
     }
     if(target>nums[numsSize-1]){
-            return i+1;
+        return i+1;
     }
     return i;
 }
