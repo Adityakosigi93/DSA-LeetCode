@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0202-happy-number) |
+| [0876-middle-of-the-linked-list](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
