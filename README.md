@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0148-sort-list) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
