@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
