@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1768-merge-strings-alternately) |
