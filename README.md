@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -221,5 +222,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
