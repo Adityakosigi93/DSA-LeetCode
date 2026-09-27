@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1470-shuffle-the-array](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1539-kth-missing-positive-number](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## String
 |  |
 | ------- |
