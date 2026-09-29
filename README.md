@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1470-shuffle-the-array](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## String
