@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0260-single-number-iii) |
+| [0455-assign-cookies](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -265,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
