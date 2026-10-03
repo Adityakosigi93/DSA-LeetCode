@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0260-single-number-iii) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
