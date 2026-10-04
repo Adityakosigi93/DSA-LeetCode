@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Recursion
 |  |
 | ------- |
