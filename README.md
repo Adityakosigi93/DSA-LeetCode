@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0260-single-number-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0704-binary-search) |
@@ -281,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0455-assign-cookies) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
