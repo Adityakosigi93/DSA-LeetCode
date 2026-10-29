@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
