@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1903-largest-odd-number-in-string](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
@@ -302,4 +303,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Adityakosigi93/DSA-LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
